@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377328029635",
+    "project_id": "tasks-depot",
+    "storage_bucket": "tasks-depot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377328029635:android:c397796a362e2716557776",
+        "android_client_info": {
+          "package_name": "com.almomani.tasks_depot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377328029635-48i59ta8aie3eg486f33jk2sfdg3dl1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXZnw4IZuN79jTli7EDD9usZBFOoobRsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377328029635-48i59ta8aie3eg486f33jk2sfdg3dl1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
